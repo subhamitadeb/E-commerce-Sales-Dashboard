@@ -128,7 +128,7 @@ Based on the current dashboard:
 
 ## 📷 Dashboard Preview
 
-![E-Commerce Sales Dashboard](dashboard.jpg)
+dashboard.png
 
 ---
 
