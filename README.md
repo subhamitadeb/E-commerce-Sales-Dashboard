@@ -126,19 +126,13 @@ Based on the current dashboard:
 
 ---
 
-## 📷 Dashboard Preview
-
-dashboard.png
-
----
-
 ## 📂 Project Structure
 
 ```text
 E-Commerce-Sales-Dashboard/
 │
 ├── README.md
-├── dashboard.jpg
+├── dashboard.png
 ├── E-Commerce-Sales-Dashboard.pbix
 └── Dataset/
     └── Details.csv
